@@ -3,7 +3,7 @@ pipeline {
         stages {
             stage('One') {
                steps {
-                   echo 'Hiii, this is feature2 branch from Mindstix1'
+                   echo 'Hiii, this is feature2 branch from Mindstix11'
                }
             }
             
